@@ -5,6 +5,7 @@ using UnityEngine;
 public class Test : MonoBehaviour {
 
     int testAvariable;
+    int testBvariable;
 
 	// Use this for initialization
 	void Start () {
